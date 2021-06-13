@@ -33,5 +33,6 @@ nupkg/
 */msbuild.err
 */msbuild.wrn
 */[Bb]in/
+*/lib/
 # Visual Studio 2015
 */.vs/
