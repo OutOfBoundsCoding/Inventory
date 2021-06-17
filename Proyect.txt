@@ -1,6 +1,6 @@
 Se requiere migrar una app de vfp a web.
 
-Desarrollo en máximo 2 semanas de un sistema web para realizar solicitudes de un inventario.
+ Desarrollo en máximo 2 semanas de un sistema web para realizar solicitudes de un inventario.
 
 Una ventana
 Con el Login usuario y contraseña (dependiendo de a que departamento está asociado se le muestran ciertos artículos, puede tener 2 o más departamentos)
@@ -11,11 +11,3 @@ En el cual se pueda muestre los artículos dependiendo del tipo de usuario que i
 Otra ventana que permita modificar los productos. Y una opción que permita deshabilitar o habilitar estos mismos y que aparezca.
 
 Total 3 ventanas.
-
-Categoría: Programación y Tecnología
-Subcategoría: Programación Web
-¿Cuál es el alcance del proyecto?: Crear un nuevo sitio personalizado
-¿Es un proyecto o una posición?: Un proyecto
-Actualmente tengo: Tengo las especificaciones
-Disponibilidad requerida: Según se necesite
-Roles necesarios: Programador, Diseñador
